@@ -15,10 +15,10 @@ To streamline our workflow, we've divided our team into two groups, each with di
 We’ll focus on using Python, PowerBI, and Tableau for our data analysis; the Python libraries include: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup for data manipulation and web scraping.
 
 Pseudocode/Algorithm: 
-Download data and import it; change the formatting
-Clean the data (ie. outliers, NaNs)
-Visualizations (PowerBI)
-Data Analysis (Regression, correlations if needed)
-Web Scraping 
-Graphing trends
+i) Download data and import it; change the formatting
+ii) Clean the data (ie. outliers, NaNs)
+iii) Visualizations (PowerBI)
+iv) Data Analysis (Regression, correlations if needed)
+v) Web Scraping 
+vi) Graphing trends
 
